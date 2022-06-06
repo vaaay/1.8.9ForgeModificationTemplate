@@ -1,0 +1,8 @@
+{
+  "package": "com.github.vaaay.modid.mixins",
+  "refmap": "mixins.modid.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    ""
+  ]
+}
